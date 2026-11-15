@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Aigerim",
+    "surname": "Nurlanova",
+    "email": "aigerim@gmail.com",
+    "birthday": "2004-03-12",
+    "phones": [
+      {
+        "phone": "87071234567",
+        "type": "mobile"
+      }
+    ],
+    "group": "Family"
+  },
+  {
+    "name": "Alima",
+    "surname": "Kusmanova",
+    "email": "alima@gmail.com",
+    "birthday": "2005-06-15",
+    "phones": [
+      {
+        "phone": "87751234567",
+        "type": "mobile"
+      }
+    ],
+    "group": "teacher"
+  },
+  {
+    "name": "Ayazhan",
+    "surname": "Sarsenova",
+    "email": "ayazhan@gmail.com",
+    "birthday": "2005-06-15",
+    "phones": [
+      {
+        "phone": "87751234567",
+        "type": "mobile"
+      }
+    ],
+    "group": "Friend"
+  }
+]
